@@ -8,10 +8,6 @@
 
 A portfolio website simulating macOS's GUI interface. Click the Launchpad icon to explore some of my projects! 
 
-## 🚀 Live Demo
-
-[View Portfolio](https://your-portfolio-url-here.com)
-
 ## ✨ Features
 
 - 🖥 macOS-like desktop interface
