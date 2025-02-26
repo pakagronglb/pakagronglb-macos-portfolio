@@ -23,4 +23,4 @@ Contact me by:
 
 ## Résumé
 
-- 
+- Link: [My Resume](https://docs.google.com/document/d/120TPdiHGeFHdasH4UGz15B5648goxaO7Rm39ZcOEri8/edit?usp=sharing)
