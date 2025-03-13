@@ -1,5 +1,8 @@
 # 🍎 MacOS Portfolio
 
+![PL_s macOS Portfolio](https://github.com/user-attachments/assets/8889553e-3b46-4bd7-9d0f-6598c4fc4c9b)
+
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
